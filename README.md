@@ -1,84 +1,106 @@
-# Bhushan_Dokhe
-<h1 align="center">Hi 👋, I'm Bhushan Dokhe</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Bhushan Dokhe
+</h1>
 
 <h3 align="center">
-Data Engineer | SQL | Python | PySpark | Azure | Snowflake
+🚀 Data Engineer | Azure | Snowflake | PySpark | SQL | Python
 </h3>
 
 <p align="center">
-Building scalable data pipelines and transforming data into valuable insights.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Engineer;Azure+Data+Engineer;PySpark+Developer;SQL+Expert;Snowflake+Learner;Always+Learning+New+Things..." />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Engineer;Python+Developer;SQL+Expert;PySpark+Enthusiast;Azure+Data+Engineer;Snowflake+Learner" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=social"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🌐 About Me
 
-- 🔭 Currently learning **Azure, Snowflake, Databricks**
-- 🌱 Improving my skills in **PySpark & Data Engineering**
-- 💻 Strong in **Python, SQL & Data Warehousing**
-- 📊 Passionate about Big Data and Cloud Technologies
-- 📚 Always learning something new
-- ⚡ Fun Fact: I enjoy solving SQL challenges.
+- ⚡ Data Engineer — I build pipelines, not excuses.
+- 🔥 Passionate about Data Engineering & Cloud.
+- ☁️ Learning Azure, Snowflake & Databricks.
+- 💻 Python | SQL | PySpark.
+- 📊 Love solving SQL challenges.
+- 🤝 Open to collaborate on Data Engineering Projects.
+- 🌱 Currently learning Apache Airflow & Kafka.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Languages and Tools
 
-### Programming
+<p align="left">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,git,github,docker,linux,vscode,mysql,postgres"/>
 
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
+</p>
 
 ### Data Engineering
 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
+<p>
 
-![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge)
+<img src="https://img.shields.io/badge/PySpark-orange?style=for-the-badge"/>
 
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge)
+<img src="https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge"/>
 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge)
+<img src="https://img.shields.io/badge/Hive-black?style=for-the-badge"/>
 
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge)
+<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge"/>
 
-![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge)
+<img src="https://img.shields.io/badge/Snowflake-blue?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/Databricks-red?style=for-the-badge"/>
 
-### Cloud
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
----
-
-### Tools
-
-Git • GitHub • Docker • VS Code • Jupyter Notebook
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-blue?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 💻 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -88,29 +110,37 @@ Git • GitHub • Docker • VS Code • Jupyter Notebook
 
 ---
 
-## 📊 Contribution Graph
-
-[![Bhushan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)]()
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
-## 🐍 Contribution Snake
+# 📊 My Contribution Graph
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📌 Pinned Projects
 
 ⭐ SQL Interview Questions
 
@@ -120,44 +150,60 @@ Git • GitHub • Docker • VS Code • Jupyter Notebook
 
 ⭐ Snowflake Data Warehouse
 
-⭐ End-to-End ETL Pipeline
+⭐ Databricks ETL Pipeline
 
-⭐ PySpark Data Processing
-
----
-
-## 📚 Currently Learning
-
-✔ Azure Data Engineer
-
-✔ Snowflake
-
-✔ Databricks
-
-✔ System Design
-
-✔ Data Warehousing
-
-✔ Advanced SQL
+⭐ PySpark Projects
 
 ---
 
-## 🌐 Connect With Me
+# 📚 Currently Learning
 
-LinkedIn: *(Add your profile)*
-
-Email: *(Add your email)*
-
-GitHub: https://github.com/YOUR_USERNAME
-
----
-
-## 👀 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+- Azure Data Engineering
+- Snowflake
+- Databricks
+- Apache Airflow
+- Apache Kafka
+- dbt
+- System Design
 
 ---
 
-## 💡 Quote
+# 🎯 2026 Goals
 
-> **"Data is the new oil, but only when refined into insights."**
+✅ Master Azure
+
+✅ Master Snowflake
+
+✅ Build 20 End-to-End Projects
+
+✅ Contribute to Open Source
+
+✅ Solve 1000 SQL Problems
+
+---
+
+# 💡 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 😂 Random Dev Meme
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+---
+
+# ☕ Support My Journey
+
+<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
+</a>
+
+---
+
+<p align="center">
+
+Made with ❤️ by Bhushan Dokhe
+
+</p>
