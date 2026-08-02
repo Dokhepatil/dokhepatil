@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Coding GIF"/>
+</p>
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=#E6E6FA,100:1E90FF&height=220&section=header&text=Bhushan%20Dokhe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Azure%20%7C%20Snowflake%20%7C%20PySpark&descAlignY=55&descSize=20"/>
 </p>
 
