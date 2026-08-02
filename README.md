@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Engineer;Azure+Data+Engineer;PySpark+Developer;SQL+Expert;Snowflake+Learner;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=Red 135, Green 206, Blue 250&center=true&vCenter=true&width=700&lines=Data+Engineer;Azure+Data+Engineer;PySpark+Developer;SQL+Expert;Snowflake+Learner;Always+Learning+New+Things..." />
 </p>
 
 <p align="center">
