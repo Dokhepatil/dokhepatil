@@ -161,7 +161,6 @@ Connect WakaTime to auto-generate your weekly coding breakdown here 📊
 <img src="https://raw.githubusercontent.com/dokhepatil/dokhepatil/output/github-contribution-grid-snake.svg"/>
 
 </p>
-
 ---
 
 # 📌 Pinned Projects
