@@ -159,12 +159,12 @@ Connect WakaTime to auto-generate your weekly coding breakdown here 📊
 
 ---
 
-# 📈 Contribution Snake
+# 📈 Contribution to github
+
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/dokhepatil/dokhepatil/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/dokhepatil/dokhepatil/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 ---
 
