@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Data Engineer | Azure | Snowflake | PySpark | SQL | Python
+🚀 Data Engineer | Azure | Snowflake | PySpark | SQL | Python | Databricks | Kafka
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- ⚡ Data Engineer — I build pipelines, not excuses.
+- ⚡ Data Engineer — I build pipelines, storages & compute solutions.
 - 🔥 Passionate about Data Engineering & Cloud.
 - ☁️ Learning Azure, Snowflake & Databricks.
 - 💻 Python | SQL | PySpark.
@@ -34,7 +34,7 @@
 - 🤝 Open to collaborate on Data Engineering Projects.
 - 🌱 Currently learning Apache Airflow & Kafka.
 - 🎯 Ask me about: **ETL pipelines, data modeling, cloud data platforms**
-- 📫 Reach me at: **YOUR_EMAIL**
+- 📫 Reach me at: **bdokhe3@gmail.com**
 
 <br clear="right"/>
 
@@ -52,7 +52,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:bdokhe3@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
