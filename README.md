@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/bdokhe3">
 <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
 </a>
 
